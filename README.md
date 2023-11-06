@@ -113,4 +113,5 @@ Execute the program
 </html>
 ```
 # OUPUT
-![Alt text](<Screenshot 2023-11-06 220631.png>)
+![Screenshot 2023-11-06 220631](https://github.com/sreeniveditaa/timetable/assets/147473268/435ec0f7-7e3f-4320-a19e-9fba047061b5)
+
